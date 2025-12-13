@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer with 1.6+ years of experience in building responsive, modern, and SEO-friendly<br>websites using HTML, CSS, JavaScript, Bootstrap, Next.js, and WordPress.<br><br>I enjoy converting UI/UX designs into clean, scalable web interfaces and working on real-world<br>projects across Carporate, NGO, Corporate, and Service-based applications.<br><br>🌐 Portfolio: https://pavankumar-s.netlify.app<br>
+Web Developer with 1.6+ years of experience in building responsive, modern, and SEO-friendly<br>websites using HTML, CSS, JavaScript, Bootstrap, Next.js, and WordPress.<br><br>I enjoy converting UI/UX designs into clean, scalable web interfaces and working on real-world<br>projects across Corporate, NGO, Corporate, and Service-based applications.<br><br>🌐 Portfolio: https://pavankumar-s.netlify.app<br>
 
 
 ## 🌐 Socials:
